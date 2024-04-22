@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import OpulentLogo from './assets/LOGO-SOLO-Opulent.png'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
